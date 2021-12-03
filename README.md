@@ -1,5 +1,5 @@
 # WiFi-Show-Password
-WiFi Şifrenizi Öğrenin :)
+WiFi Şifrenizi Öğrenme Aracı Windows Makineler İçindir
 
 python3 wifikir.py -w [TARGET]
 
